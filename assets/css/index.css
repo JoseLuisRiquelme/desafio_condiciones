@@ -1,0 +1,36 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-image: url(../img/wall.jpg);
+}
+
+.p1{
+    text-align:center;
+    color:red ;
+    border: 2px solid;
+    padding:50px;
+    height:100px;
+    width: 100px;
+    border-radius: 50%;
+}
+.p2{
+    text-align: center;
+    color: rosybrown;
+    border: 2px solid;
+    padding:50px;
+    height:100px;
+    width: 100px;
+    border-radius: 50%;
+}
+.p3{
+    text-align: center;
+    color: green;
+    border: 2px solid;
+    padding:50px;
+    height:100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
